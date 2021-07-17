@@ -1,6 +1,7 @@
 # Rebekah Cramer
 Computer Science major at BYU-Idaho.
-
+<!--Rebekah I like your resume, to improve you can change the CSS file and change the font, and color of the important areas
+the file is davewhipp-screen.css-->
 <div id="webaddress">
 <a href="rebekahcramer57@gmail.com">rebekahcramer57@gmail.com</a>
 | <a href="https://github.com/glitch-opt">GitHub</a>
@@ -10,6 +11,8 @@ Computer Science major at BYU-Idaho.
 
 `Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
+
+<!--here is more important you specify what is your major or minor nor your GPA-->
 
 - 3.5 Major GPA
 
@@ -25,7 +28,7 @@ __Data Science Programming__, Student
 - Tidied data to be used in a machine learning model to predict the income of a respondent to a Star Wars survey.
 
 ## Skills
-
+<!--I like this very specific-->
 ### Hard Skills
 - Python (2 years experience)
 - HTML and CSS (4 months experience)
